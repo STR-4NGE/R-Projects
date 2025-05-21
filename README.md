@@ -1,4 +1,4 @@
-# 📊 R Mini Projeleri
+# 📊 R Projeleri
 
 Bu repoda, R programlama dili ile yapılmış temel seviye veri analizi ve simülasyon projeleri bulunmaktadır.
 
@@ -21,9 +21,9 @@ Yazı-tura simülasyonu yapılır.
 
 ## 🚀 Nasıl Kullanılır?
 ```bash
-git clone https://github.com/kullanici-adi/R-Projects.git
+git clone https://github.com/STR-4NGE/R-Projects.git
 ```
 
 ## 👤 Yazar
-- İsim: [Adınızı buraya yazın]
-- GitHub: [github.com/kullanici-adi](https://github.com/kullanici-adi)
+- İsim: [Garip Emre]
+- GitHub: [github.com/STR-4NGE](https://github.com/STR-4NGE)
